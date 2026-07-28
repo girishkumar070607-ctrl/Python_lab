@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar
 # Program 2: Arithmetic Operations on Two Numbers
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
