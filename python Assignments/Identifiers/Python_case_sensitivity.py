@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar 
 # Python is case-sensitive
 Marks = 95
 marks = 80
