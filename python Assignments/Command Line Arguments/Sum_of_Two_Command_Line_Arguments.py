@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar
 # Program 2: Sum of Two Command Line Arguments
 import sys
 if len(sys.argv) != 3:
