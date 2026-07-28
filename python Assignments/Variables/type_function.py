@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar 
 # type_function
 name = "Prudhvi"
 age = 19
