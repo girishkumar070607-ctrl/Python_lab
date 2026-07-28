@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar 
 # Demonstrating dynamic typing
 value = 100
 print(value, type(value))
