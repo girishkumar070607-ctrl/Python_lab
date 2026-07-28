@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar
 # Program 1: Assignment, Conditional, Loop, and Print Statement
 num = 5
 if num > 0:
