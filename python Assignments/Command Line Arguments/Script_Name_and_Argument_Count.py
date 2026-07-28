@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar
 # Program 3: Script Name and Argument Count
 import sys
 print("Script Name:", sys.argv[0])
