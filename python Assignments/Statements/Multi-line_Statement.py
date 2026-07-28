@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar 
 # Program 2: Multi-line Statement Using \ and Parentheses
 total1 = 10 + 20 + 30 + \
          40 + 50
