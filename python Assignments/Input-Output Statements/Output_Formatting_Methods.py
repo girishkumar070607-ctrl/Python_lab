@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar
 # Program 3: Output Formatting Methods
 name = "Prudhvi"
 marks = 95
