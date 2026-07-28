@@ -1,4 +1,4 @@
-#Y.Prudhvi Naidu
+#Y.Girish Kumar
 # Program 1: Greeting Using Command Line Argument
 import sys
 name = sys.argv[1]
